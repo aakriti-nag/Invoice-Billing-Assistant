@@ -1,16 +1,16 @@
 # Invoice/Billing Assistant
 
-📄 Gemini Invoice Assistant
-A streamlit-based web application that allows users to upload invoices and ask questions about them using the Gemini AI model. This app provides a chat interface where users can interact with the AI to extract insights from uploaded invoices, such as totals, terms, and other specific details.
+### 📄 Gemini Invoice Assistant
+A web application that allows users to upload invoices and ask questions about them. This app provides a chat interface where users can interact with the AI to extract insights from uploaded invoices, such as totals, terms, and other specific details.
 
-🔍 Features
+### 🔍 Features
 Invoice Upload: Upload JPG, PNG, or JPEG invoices.
 Interactive Chat Interface: Ask detailed questions about the uploaded invoice, such as totals, terms, and individual items.
-AI-Powered Responses: Powered by Gemini AI, providing quick and accurate answers.
+AI-Powered Responses: Powered by Gemini, providing quick and accurate answers.
 Responsive Layout: Clean, user-friendly interface with an attractive gradient background.
 History Tracking: See your chat history with timestamps for easy reference.
-Footer Links: Connect with the author through email and LinkedIn.
-🛠️ Technology Stack
+
+### 🛠️ Technology Stack
 Python
 Streamlit: For building the web app interface
 Google Generative AI: Gemini model for AI-powered interactions
