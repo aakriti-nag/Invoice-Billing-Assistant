@@ -27,24 +27,23 @@ Make sure you have the following installed:
 4. dotenv (for environment variable management)
 Check requirements.txt for more.
 
-📸 Screenshots
+### 📸 Screenshots
 ![screencapture-localhost-8501-2024-10-24-15_55_57](https://github.com/user-attachments/assets/c42ed694-89d0-4fa8-a720-26f0201e457a)
 
 
 
-📬 Contact
+### 📬 Contact
 Made with ❤️ by Aakriti Nag.
 
-Email: aakritinag04@gmail.com
-LinkedIn: Aakriti Nag
-📜 License
+### 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-💡 Future Enhancements
-Add OCR capabilities to extract text from scanned invoices.
-Integrate multi-file uploads for batch processing.
-Add voice-based interaction to enhance usability.
-This README provides clear instructions on setup, functionality, and customization while giving your project a professional touch. Feel free to tweak it further to match your preferences! 😊
+### 💡 Future Enhancements
+1. Add OCR capabilities to extract text from scanned invoices.
+2. Integrate multi-file uploads for batch processing.
+3. Store data in tabular format, so can be analysed directly.
+
+
 
 
 
